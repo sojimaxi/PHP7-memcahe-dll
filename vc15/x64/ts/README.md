@@ -3,7 +3,7 @@ configure --disable-all --enable-cli --enable-zlib --enable-hash --enable-sessio
 ```
  - Build type       : Release
  - Thread Safety    : Yes
- - Compiler         : MSVC14 (Visual C++ 2015)
+ - Compiler         : MSVC15 (Visual C++ 2017)
  - Architecture     : x64
  - Optimization     : PGO disabled
  - Static analyzer  : disabled
